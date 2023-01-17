@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Lorenzo Cirocco
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Law Public Policy Negotiation and Business
 
-- Course 2
+- Intro to Business Finance
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Entrepreneural Oppertunity Analysis
+
+-International & Comparative Dimensions of Business
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Working out
 
-- Thing 2
+- Video Games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
